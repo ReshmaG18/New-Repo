@@ -1,4 +1,4 @@
 # New-Repo
 This is my repository
 <br>
-Author - Reshma Gayakwad
+Author - Reshma Gayakwad(tanushree)
